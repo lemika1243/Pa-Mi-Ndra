@@ -1,0 +1,1 @@
+    inet 172.16.242.98/16 brd 172.16.255.255 scope global dynamic noprefixroute wlan0
